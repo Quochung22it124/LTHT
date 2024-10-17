@@ -1,0 +1,60 @@
+Time: Thu Oct 17 17:08:17 2024
+To: nguyenthuhue.vku@gmail.com
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:15:11 2024
+To: nguyenthuhue.vku@gmail.com
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:15:54 2024
+To: nguyenthuhue.vku@gmail.com
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:22:10 2024
+To: hieund.22it@vku.udn.vn
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:23:08 2024
+To: hieund.22it@vku.udn.vn
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:25:45 2024
+To: hieund.22it@vku.udn.vn
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:27:30 2024
+To: hieund.22it@vku.udn.vn
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:32:04 2024
+To: hieund.22it@vku.udn.vn
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:34:04 2024
+To: hieund.22it@vku.udn.vn
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:34:38 2024
+To: nguyenthuhue.vku@gmail.com
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:36:04 2024
+To: nguyenthuhue.vku@gmail.com
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+
+Time: Thu Oct 17 17:38:04 2024
+To: nguyenthuhue.vku@gmail.com
+Subject: Test Email Notification by HieuNguyen
+Body: HieuNguyen test cronjob
+

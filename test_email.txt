@@ -1,0 +1,4 @@
+To: nguyenthuhue.vku@gmail.com
+Subject: Test Email from msmtp
+
+This is a test email sent using msmtp.
