@@ -2,6 +2,9 @@
 sudo apt-get update
 sudo apt-get install msmtp msmtp-mta
 ```
+```
+nano ~/.msmtprc
+```
 
 ```
 defaults
