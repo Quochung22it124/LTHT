@@ -31,5 +31,5 @@ gcc send_mail.c -o send_mail
 ```
 crontab -e
 
-*/5 * * * * /home/hieunguyen/Personal/LTHT/send_mail
+*/5 * * * * /home/quochung0902/Personal/LTHT/send_mail
 ```
